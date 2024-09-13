@@ -1,10 +1,10 @@
 ## testtest
 
-[go to my projets](#alt-proje)
+[go to my projets](project1/aa)
 
 aa\n
 aa
-aaa
+aaay
 a
 a
 a
